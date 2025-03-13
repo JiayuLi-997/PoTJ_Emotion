@@ -1,20 +1,336 @@
-9.0	[feel][past][long]	感觉 过去 好久	11	16	17
-9.0	[feel][past][long]	觉得 过去 好久	12	16	17
-9.0	[feel][past][long]	似乎 过去 好久	13	16	17
-9.0	[feel][past][long]	仿佛 过去 好久	14	16	17
-9.0	[feel][past][long]	好像 过去 好久	15	16	17
-9.0	[feel][past][long]	感觉 过了 好久	11	1	17
-9.0	[feel][past][long]	觉得 过了 好久	12	1	17
-9.0	[feel][past][long]	似乎 过了 好久	13	1	17
-9.0	[feel][past][long]	仿佛 过了 好久	14	1	17
-9.0	[feel][past][long]	好像 过了 好久	15	1	17
-9.0	[feel][past][long]	感觉 过去 很久	11	16	18
-9.0	[feel][past][long]	觉得 过去 很久	12	16	18
-9.0	[feel][past][long]	似乎 过去 很久	13	16	18
-9.0	[feel][past][long]	仿佛 过去 很久	14	16	18
-9.0	[feel][past][long]	好像 过去 很久	15	16	18
-9.0	[feel][past][long]	感觉 过了 很久	11	1	18
-9.0	[feel][past][long]	觉得 过了 很久	12	1	18
-9.0	[feel][past][long]	似乎 过了 很久	13	1	18
-9.0	[feel][past][long]	仿佛 过了 很久	14	1	18
-9.0	[feel][past][long]	好像 过了 很久	15	1	18
+1.0	[prep][time]	才过 这么久	61	62
+1.0	[prep][time]	才过 学期	61	10
+1.0	[prep][time]	才过 分钟	61	5
+1.0	[prep][time]	才过 小时	61	6
+1.0	[prep][time]	才过 天	61	7
+1.0	[prep][time]	才过 周	61	15
+1.0	[prep][time]	才过 月	61	8
+1.0	[prep][time]	才过 年	61	9
+1.0	[prep][time]	才过 上午	61	63
+1.0	[prep][time]	才过 下午	61	64
+2.0	[time]过[de]慢	时间 过 的 慢	13	11	17	60
+2.0	[time]过[de]慢	时光 过 的 慢	14	11	17	60
+2.0	[time]过[de]慢	日子 过 的 慢	16	11	17	60
+2.0	[time]过[de]慢	学期 过 的 慢	10	11	17	60
+2.0	[time]过[de]慢	分钟 过 的 慢	5	11	17	60
+2.0	[time]过[de]慢	小时 过 的 慢	6	11	17	60
+2.0	[time]过[de]慢	天 过 的 慢	7	11	17	60
+2.0	[time]过[de]慢	周 过 的 慢	15	11	17	60
+2.0	[time]过[de]慢	月 过 的 慢	8	11	17	60
+2.0	[time]过[de]慢	年 过 的 慢	9	11	17	60
+2.0	[time]过[de]慢	时间 过 得 慢	13	11	18	60
+2.0	[time]过[de]慢	时光 过 得 慢	14	11	18	60
+2.0	[time]过[de]慢	日子 过 得 慢	16	11	18	60
+2.0	[time]过[de]慢	学期 过 得 慢	10	11	18	60
+2.0	[time]过[de]慢	分钟 过 得 慢	5	11	18	60
+2.0	[time]过[de]慢	小时 过 得 慢	6	11	18	60
+2.0	[time]过[de]慢	天 过 得 慢	7	11	18	60
+2.0	[time]过[de]慢	周 过 得 慢	15	11	18	60
+2.0	[time]过[de]慢	月 过 得 慢	8	11	18	60
+2.0	[time]过[de]慢	年 过 得 慢	9	11	18	60
+2.0	[time]过[de]慢	时间 过 地 慢	13	11	19	60
+2.0	[time]过[de]慢	时光 过 地 慢	14	11	19	60
+2.0	[time]过[de]慢	日子 过 地 慢	16	11	19	60
+2.0	[time]过[de]慢	学期 过 地 慢	10	11	19	60
+2.0	[time]过[de]慢	分钟 过 地 慢	5	11	19	60
+2.0	[time]过[de]慢	小时 过 地 慢	6	11	19	60
+2.0	[time]过[de]慢	天 过 地 慢	7	11	19	60
+2.0	[time]过[de]慢	周 过 地 慢	15	11	19	60
+2.0	[time]过[de]慢	月 过 地 慢	8	11	19	60
+2.0	[time]过[de]慢	年 过 地 慢	9	11	19	60
+3.0	[time]感觉[adj]	时间 感觉 长	13	65	66
+3.0	[time]感觉[adj]	时光 感觉 长	14	65	66
+3.0	[time]感觉[adj]	日子 感觉 长	16	65	66
+3.0	[time]感觉[adj]	学期 感觉 长	10	65	66
+3.0	[time]感觉[adj]	分钟 感觉 长	5	65	66
+3.0	[time]感觉[adj]	小时 感觉 长	6	65	66
+3.0	[time]感觉[adj]	天 感觉 长	7	65	66
+3.0	[time]感觉[adj]	周 感觉 长	15	65	66
+3.0	[time]感觉[adj]	月 感觉 长	8	65	66
+3.0	[time]感觉[adj]	年 感觉 长	9	65	66
+3.0	[time]感觉[adj]	时间 感觉 慢	13	65	60
+3.0	[time]感觉[adj]	时光 感觉 慢	14	65	60
+3.0	[time]感觉[adj]	日子 感觉 慢	16	65	60
+3.0	[time]感觉[adj]	学期 感觉 慢	10	65	60
+3.0	[time]感觉[adj]	分钟 感觉 慢	5	65	60
+3.0	[time]感觉[adj]	小时 感觉 慢	6	65	60
+3.0	[time]感觉[adj]	天 感觉 慢	7	65	60
+3.0	[time]感觉[adj]	周 感觉 慢	15	65	60
+3.0	[time]感觉[adj]	月 感觉 慢	8	65	60
+3.0	[time]感觉[adj]	年 感觉 慢	9	65	60
+4.0	[hope][time][adj]	想要 时间 快	54	13	12
+4.0	[hope][time][adj]	希望 时间 快	55	13	12
+4.0	[hope][time][adj]	真想 时间 快	56	13	12
+4.0	[hope][time][adj]	拜托 时间 快	57	13	12
+4.0	[hope][time][adj]	如果 时间 快	58	13	12
+4.0	[hope][time][adj]	假如 时间 快	59	13	12
+4.0	[hope][time][adj]	想要 时光 快	54	14	12
+4.0	[hope][time][adj]	希望 时光 快	55	14	12
+4.0	[hope][time][adj]	真想 时光 快	56	14	12
+4.0	[hope][time][adj]	拜托 时光 快	57	14	12
+4.0	[hope][time][adj]	如果 时光 快	58	14	12
+4.0	[hope][time][adj]	假如 时光 快	59	14	12
+4.0	[hope][time][adj]	想要 日子 快	54	16	12
+4.0	[hope][time][adj]	希望 日子 快	55	16	12
+4.0	[hope][time][adj]	真想 日子 快	56	16	12
+4.0	[hope][time][adj]	拜托 日子 快	57	16	12
+4.0	[hope][time][adj]	如果 日子 快	58	16	12
+4.0	[hope][time][adj]	假如 日子 快	59	16	12
+5.0	[time][adj]	时间 漫长	13	68
+5.0	[time][adj]	时光 漫长	14	68
+5.0	[time][adj]	岁月 漫长	67	68
+6.0	[time][still]	时光 静止	14	69
+6.0	[time][still]	时间 静止	13	69
+6.0	[time][still]	日子 静止	16	69
+6.0	[time][still]	时光 停滞	14	70
+6.0	[time][still]	时间 停滞	13	70
+6.0	[time][still]	日子 停滞	16	70
+6.0	[time][still]	时光 停止	14	71
+6.0	[time][still]	时间 停止	13	71
+6.0	[time][still]	日子 停止	16	71
+6.0	[time][still]	时光 好长	14	72
+6.0	[time][still]	时间 好长	13	72
+6.0	[time][still]	日子 好长	16	72
+6.0	[time][still]	时光 停了	14	73
+6.0	[time][still]	时间 停了	13	73
+6.0	[time][still]	日子 停了	16	73
+7.0	[time][prepadj]	时间 这么长	13	74
+7.0	[time][prepadj]	时光 这么长	14	74
+7.0	[time][prepadj]	日子 这么长	16	74
+7.0	[time][prepadj]	学期 这么长	10	74
+7.0	[time][prepadj]	时间 这么慢	13	75
+7.0	[time][prepadj]	时光 这么慢	14	75
+7.0	[time][prepadj]	日子 这么慢	16	75
+7.0	[time][prepadj]	学期 这么慢	10	75
+7.0	[time][prepadj]	时间 这么漫长	13	76
+7.0	[time][prepadj]	时光 这么漫长	14	76
+7.0	[time][prepadj]	日子 这么漫长	16	76
+7.0	[time][prepadj]	学期 这么漫长	10	76
+7.0	[time][prepadj]	时间 这么久	13	62
+7.0	[time][prepadj]	时光 这么久	14	62
+7.0	[time][prepadj]	日子 这么久	16	62
+7.0	[time][prepadj]	学期 这么久	10	62
+7.0	[time][prepadj]	时间 好长	13	72
+7.0	[time][prepadj]	时光 好长	14	72
+7.0	[time][prepadj]	日子 好长	16	72
+7.0	[time][prepadj]	学期 好长	10	72
+7.0	[time][prepadj]	时间 好慢	13	77
+7.0	[time][prepadj]	时光 好慢	14	77
+7.0	[time][prepadj]	日子 好慢	16	77
+7.0	[time][prepadj]	学期 好慢	10	77
+7.0	[time][prepadj]	时间 好漫长	13	78
+7.0	[time][prepadj]	时光 好漫长	14	78
+7.0	[time][prepadj]	日子 好漫长	16	78
+7.0	[time][prepadj]	学期 好漫长	10	78
+7.0	[time][prepadj]	时间 好久	13	79
+7.0	[time][prepadj]	时光 好久	14	79
+7.0	[time][prepadj]	日子 好久	16	79
+7.0	[time][prepadj]	学期 好久	10	79
+7.0	[time][prepadj]	时间 非常长	13	80
+7.0	[time][prepadj]	时光 非常长	14	80
+7.0	[time][prepadj]	日子 非常长	16	80
+7.0	[time][prepadj]	学期 非常长	10	80
+7.0	[time][prepadj]	时间 非常慢	13	81
+7.0	[time][prepadj]	时光 非常慢	14	81
+7.0	[time][prepadj]	日子 非常慢	16	81
+7.0	[time][prepadj]	学期 非常慢	10	81
+7.0	[time][prepadj]	时间 非常漫长	13	82
+7.0	[time][prepadj]	时光 非常漫长	14	82
+7.0	[time][prepadj]	日子 非常漫长	16	82
+7.0	[time][prepadj]	学期 非常漫长	10	82
+7.0	[time][prepadj]	时间 非常久	13	83
+7.0	[time][prepadj]	时光 非常久	14	83
+7.0	[time][prepadj]	日子 非常久	16	83
+7.0	[time][prepadj]	学期 非常久	10	83
+7.0	[time][prepadj]	时间 特别长	13	84
+7.0	[time][prepadj]	时光 特别长	14	84
+7.0	[time][prepadj]	日子 特别长	16	84
+7.0	[time][prepadj]	学期 特别长	10	84
+7.0	[time][prepadj]	时间 特别慢	13	85
+7.0	[time][prepadj]	时光 特别慢	14	85
+7.0	[time][prepadj]	日子 特别慢	16	85
+7.0	[time][prepadj]	学期 特别慢	10	85
+7.0	[time][prepadj]	时间 特别漫长	13	86
+7.0	[time][prepadj]	时光 特别漫长	14	86
+7.0	[time][prepadj]	日子 特别漫长	16	86
+7.0	[time][prepadj]	学期 特别漫长	10	86
+7.0	[time][prepadj]	时间 特别久	13	87
+7.0	[time][prepadj]	时光 特别久	14	87
+7.0	[time][prepadj]	日子 特别久	16	87
+7.0	[time][prepadj]	学期 特别久	10	87
+7.0	[time][prepadj]	时间 太长	13	88
+7.0	[time][prepadj]	时光 太长	14	88
+7.0	[time][prepadj]	日子 太长	16	88
+7.0	[time][prepadj]	学期 太长	10	88
+7.0	[time][prepadj]	时间 太慢	13	89
+7.0	[time][prepadj]	时光 太慢	14	89
+7.0	[time][prepadj]	日子 太慢	16	89
+7.0	[time][prepadj]	学期 太慢	10	89
+7.0	[time][prepadj]	时间 太漫长	13	90
+7.0	[time][prepadj]	时光 太漫长	14	90
+7.0	[time][prepadj]	日子 太漫长	16	90
+7.0	[time][prepadj]	学期 太漫长	10	90
+7.0	[time][prepadj]	时间 太久	13	91
+7.0	[time][prepadj]	时光 太久	14	91
+7.0	[time][prepadj]	日子 太久	16	91
+7.0	[time][prepadj]	学期 太久	10	91
+7.0	[time][prepadj]	时间 真长	13	92
+7.0	[time][prepadj]	时光 真长	14	92
+7.0	[time][prepadj]	日子 真长	16	92
+7.0	[time][prepadj]	学期 真长	10	92
+7.0	[time][prepadj]	时间 真慢	13	93
+7.0	[time][prepadj]	时光 真慢	14	93
+7.0	[time][prepadj]	日子 真慢	16	93
+7.0	[time][prepadj]	学期 真慢	10	93
+7.0	[time][prepadj]	时间 真漫长	13	94
+7.0	[time][prepadj]	时光 真漫长	14	94
+7.0	[time][prepadj]	日子 真漫长	16	94
+7.0	[time][prepadj]	学期 真漫长	10	94
+7.0	[time][prepadj]	时间 真久	13	95
+7.0	[time][prepadj]	时光 真久	14	95
+7.0	[time][prepadj]	日子 真久	16	95
+7.0	[time][prepadj]	学期 真久	10	95
+8.0	[time]过[prepadj]	分钟 过 这么长	5	11	74
+8.0	[time]过[prepadj]	小时 过 这么长	6	11	74
+8.0	[time]过[prepadj]	天 过 这么长	7	11	74
+8.0	[time]过[prepadj]	周 过 这么长	15	11	74
+8.0	[time]过[prepadj]	月 过 这么长	8	11	74
+8.0	[time]过[prepadj]	年 过 这么长	9	11	74
+8.0	[time]过[prepadj]	分钟 过 这么慢	5	11	75
+8.0	[time]过[prepadj]	小时 过 这么慢	6	11	75
+8.0	[time]过[prepadj]	天 过 这么慢	7	11	75
+8.0	[time]过[prepadj]	周 过 这么慢	15	11	75
+8.0	[time]过[prepadj]	月 过 这么慢	8	11	75
+8.0	[time]过[prepadj]	年 过 这么慢	9	11	75
+8.0	[time]过[prepadj]	分钟 过 这么漫长	5	11	76
+8.0	[time]过[prepadj]	小时 过 这么漫长	6	11	76
+8.0	[time]过[prepadj]	天 过 这么漫长	7	11	76
+8.0	[time]过[prepadj]	周 过 这么漫长	15	11	76
+8.0	[time]过[prepadj]	月 过 这么漫长	8	11	76
+8.0	[time]过[prepadj]	年 过 这么漫长	9	11	76
+8.0	[time]过[prepadj]	分钟 过 这么久	5	11	62
+8.0	[time]过[prepadj]	小时 过 这么久	6	11	62
+8.0	[time]过[prepadj]	天 过 这么久	7	11	62
+8.0	[time]过[prepadj]	周 过 这么久	15	11	62
+8.0	[time]过[prepadj]	月 过 这么久	8	11	62
+8.0	[time]过[prepadj]	年 过 这么久	9	11	62
+8.0	[time]过[prepadj]	分钟 过 好长	5	11	72
+8.0	[time]过[prepadj]	小时 过 好长	6	11	72
+8.0	[time]过[prepadj]	天 过 好长	7	11	72
+8.0	[time]过[prepadj]	周 过 好长	15	11	72
+8.0	[time]过[prepadj]	月 过 好长	8	11	72
+8.0	[time]过[prepadj]	年 过 好长	9	11	72
+8.0	[time]过[prepadj]	分钟 过 好慢	5	11	77
+8.0	[time]过[prepadj]	小时 过 好慢	6	11	77
+8.0	[time]过[prepadj]	天 过 好慢	7	11	77
+8.0	[time]过[prepadj]	周 过 好慢	15	11	77
+8.0	[time]过[prepadj]	月 过 好慢	8	11	77
+8.0	[time]过[prepadj]	年 过 好慢	9	11	77
+8.0	[time]过[prepadj]	分钟 过 好漫长	5	11	78
+8.0	[time]过[prepadj]	小时 过 好漫长	6	11	78
+8.0	[time]过[prepadj]	天 过 好漫长	7	11	78
+8.0	[time]过[prepadj]	周 过 好漫长	15	11	78
+8.0	[time]过[prepadj]	月 过 好漫长	8	11	78
+8.0	[time]过[prepadj]	年 过 好漫长	9	11	78
+8.0	[time]过[prepadj]	分钟 过 好久	5	11	79
+8.0	[time]过[prepadj]	小时 过 好久	6	11	79
+8.0	[time]过[prepadj]	天 过 好久	7	11	79
+8.0	[time]过[prepadj]	周 过 好久	15	11	79
+8.0	[time]过[prepadj]	月 过 好久	8	11	79
+8.0	[time]过[prepadj]	年 过 好久	9	11	79
+8.0	[time]过[prepadj]	分钟 过 非常长	5	11	80
+8.0	[time]过[prepadj]	小时 过 非常长	6	11	80
+8.0	[time]过[prepadj]	天 过 非常长	7	11	80
+8.0	[time]过[prepadj]	周 过 非常长	15	11	80
+8.0	[time]过[prepadj]	月 过 非常长	8	11	80
+8.0	[time]过[prepadj]	年 过 非常长	9	11	80
+8.0	[time]过[prepadj]	分钟 过 非常慢	5	11	81
+8.0	[time]过[prepadj]	小时 过 非常慢	6	11	81
+8.0	[time]过[prepadj]	天 过 非常慢	7	11	81
+8.0	[time]过[prepadj]	周 过 非常慢	15	11	81
+8.0	[time]过[prepadj]	月 过 非常慢	8	11	81
+8.0	[time]过[prepadj]	年 过 非常慢	9	11	81
+8.0	[time]过[prepadj]	分钟 过 非常漫长	5	11	82
+8.0	[time]过[prepadj]	小时 过 非常漫长	6	11	82
+8.0	[time]过[prepadj]	天 过 非常漫长	7	11	82
+8.0	[time]过[prepadj]	周 过 非常漫长	15	11	82
+8.0	[time]过[prepadj]	月 过 非常漫长	8	11	82
+8.0	[time]过[prepadj]	年 过 非常漫长	9	11	82
+8.0	[time]过[prepadj]	分钟 过 非常久	5	11	83
+8.0	[time]过[prepadj]	小时 过 非常久	6	11	83
+8.0	[time]过[prepadj]	天 过 非常久	7	11	83
+8.0	[time]过[prepadj]	周 过 非常久	15	11	83
+8.0	[time]过[prepadj]	月 过 非常久	8	11	83
+8.0	[time]过[prepadj]	年 过 非常久	9	11	83
+8.0	[time]过[prepadj]	分钟 过 特别长	5	11	84
+8.0	[time]过[prepadj]	小时 过 特别长	6	11	84
+8.0	[time]过[prepadj]	天 过 特别长	7	11	84
+8.0	[time]过[prepadj]	周 过 特别长	15	11	84
+8.0	[time]过[prepadj]	月 过 特别长	8	11	84
+8.0	[time]过[prepadj]	年 过 特别长	9	11	84
+8.0	[time]过[prepadj]	分钟 过 特别慢	5	11	85
+8.0	[time]过[prepadj]	小时 过 特别慢	6	11	85
+8.0	[time]过[prepadj]	天 过 特别慢	7	11	85
+8.0	[time]过[prepadj]	周 过 特别慢	15	11	85
+8.0	[time]过[prepadj]	月 过 特别慢	8	11	85
+8.0	[time]过[prepadj]	年 过 特别慢	9	11	85
+8.0	[time]过[prepadj]	分钟 过 特别漫长	5	11	86
+8.0	[time]过[prepadj]	小时 过 特别漫长	6	11	86
+8.0	[time]过[prepadj]	天 过 特别漫长	7	11	86
+8.0	[time]过[prepadj]	周 过 特别漫长	15	11	86
+8.0	[time]过[prepadj]	月 过 特别漫长	8	11	86
+8.0	[time]过[prepadj]	年 过 特别漫长	9	11	86
+8.0	[time]过[prepadj]	分钟 过 特别久	5	11	87
+8.0	[time]过[prepadj]	小时 过 特别久	6	11	87
+8.0	[time]过[prepadj]	天 过 特别久	7	11	87
+8.0	[time]过[prepadj]	周 过 特别久	15	11	87
+8.0	[time]过[prepadj]	月 过 特别久	8	11	87
+8.0	[time]过[prepadj]	年 过 特别久	9	11	87
+8.0	[time]过[prepadj]	分钟 过 太长	5	11	88
+8.0	[time]过[prepadj]	小时 过 太长	6	11	88
+8.0	[time]过[prepadj]	天 过 太长	7	11	88
+8.0	[time]过[prepadj]	周 过 太长	15	11	88
+8.0	[time]过[prepadj]	月 过 太长	8	11	88
+8.0	[time]过[prepadj]	年 过 太长	9	11	88
+8.0	[time]过[prepadj]	分钟 过 太慢	5	11	89
+8.0	[time]过[prepadj]	小时 过 太慢	6	11	89
+8.0	[time]过[prepadj]	天 过 太慢	7	11	89
+8.0	[time]过[prepadj]	周 过 太慢	15	11	89
+8.0	[time]过[prepadj]	月 过 太慢	8	11	89
+8.0	[time]过[prepadj]	年 过 太慢	9	11	89
+8.0	[time]过[prepadj]	分钟 过 太漫长	5	11	90
+8.0	[time]过[prepadj]	小时 过 太漫长	6	11	90
+8.0	[time]过[prepadj]	天 过 太漫长	7	11	90
+8.0	[time]过[prepadj]	周 过 太漫长	15	11	90
+8.0	[time]过[prepadj]	月 过 太漫长	8	11	90
+8.0	[time]过[prepadj]	年 过 太漫长	9	11	90
+8.0	[time]过[prepadj]	分钟 过 太久	5	11	91
+8.0	[time]过[prepadj]	小时 过 太久	6	11	91
+8.0	[time]过[prepadj]	天 过 太久	7	11	91
+8.0	[time]过[prepadj]	周 过 太久	15	11	91
+8.0	[time]过[prepadj]	月 过 太久	8	11	91
+8.0	[time]过[prepadj]	年 过 太久	9	11	91
+8.0	[time]过[prepadj]	分钟 过 真长	5	11	92
+8.0	[time]过[prepadj]	小时 过 真长	6	11	92
+8.0	[time]过[prepadj]	天 过 真长	7	11	92
+8.0	[time]过[prepadj]	周 过 真长	15	11	92
+8.0	[time]过[prepadj]	月 过 真长	8	11	92
+8.0	[time]过[prepadj]	年 过 真长	9	11	92
+8.0	[time]过[prepadj]	分钟 过 真慢	5	11	93
+8.0	[time]过[prepadj]	小时 过 真慢	6	11	93
+8.0	[time]过[prepadj]	天 过 真慢	7	11	93
+8.0	[time]过[prepadj]	周 过 真慢	15	11	93
+8.0	[time]过[prepadj]	月 过 真慢	8	11	93
+8.0	[time]过[prepadj]	年 过 真慢	9	11	93
+8.0	[time]过[prepadj]	分钟 过 真漫长	5	11	94
+8.0	[time]过[prepadj]	小时 过 真漫长	6	11	94
+8.0	[time]过[prepadj]	天 过 真漫长	7	11	94
+8.0	[time]过[prepadj]	周 过 真漫长	15	11	94
+8.0	[time]过[prepadj]	月 过 真漫长	8	11	94
+8.0	[time]过[prepadj]	年 过 真漫长	9	11	94
+8.0	[time]过[prepadj]	分钟 过 真久	5	11	95
+8.0	[time]过[prepadj]	小时 过 真久	6	11	95
+8.0	[time]过[prepadj]	天 过 真久	7	11	95
+8.0	[time]过[prepadj]	周 过 真久	15	11	95
+8.0	[time]过[prepadj]	月 过 真久	8	11	95
+8.0	[time]过[prepadj]	年 过 真久	9	11	95
